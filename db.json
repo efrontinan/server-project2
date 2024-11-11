@@ -1,33 +1,114 @@
 {
-  "projects": [
+  "games": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Bang",
+      "image": "https://www.ludokubo.com/wp-content/uploads/2019/01/Bang-La-bala-e1580919995619.jpg",
+      "categories": [
+        "Juego de cartas",
+        "Rol"
+      ],
+      "specs": {
+        "players": {
+          "min": 4,
+          "max": 7
+        },
+        "minimumAge": 8,
+        "duration": 40
+      },
+      "description": "En el Salvaje Oeste, los Forajidos dan caza al Sheriff, el Sheriff da caza a los Forajidos, y el Renegado urde su plan en secreto, listo para unirse a cualquiera de los bandos. Dentro de poco, ¡las balas comenzarán a zumbar!",
+      "howToPlay": [
+        "Cada jugador representa a un pistolero en el oeste con un tablero y un personaje con una habilidad.",
+        "Hay varios roles que se reparten en secreto.",
+        "Por turnos, se roban 2 cartas del mazo, y se juegan las cartas que se quiera. Las cartas marrones se juegan y se descartan.",
+        "El Sheriff tiene que acabar con todos, los forajidos tienen que matar al sheriff...",
+        "Jugando cartas de Bang, quitaremos una vida a ese personaje. La carta cerveza nos permite recuperar una vida...",
+        "Podemos tener un arma (carta azul) que permite atacar y nos dan algunas ventajas.",
+        "Ganará el equipo que cumpla su objetivo."
+      ],
+      "expansions": [
+        "La fiebre del Oro",
+        "El valle de las sombras",
+        "Wild West Show"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "103 cartas de juego",
+        "7 cartas de resumen",
+        "7 tableros",
+        "30 piezas de bala",
+        "1 libro de reglas"
+      ]
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "title": "Hues and Cues",
+      "image": "https://m.media-amazon.com/images/I/71EzKcQh5pL.jpg",
+      "categories": [
+        "Juego de tablero"
+      ],
+      "specs": {
+        "players": {
+          "min": 3,
+          "max": 20
+        },
+        "minimumAge": 8,
+        "duration": 30
+      },
+      "description": "es un juego de tablero en el que tendréis que realizar conexiones entre colores con palabras. Con pistas de una y dos palabras, intentaréis que los demás adivinen un tono específico dentro de los 480 colores del tablero de juego. No será nada fácil, porque os daréis cuenta de que cada persona imagina los colores de manera diferente.",
+      "howToPlay": [
+        "Hay un game master que elige un color específico y lo coge de la baraja de cartas",
+        "El game master da una palabra y los jugadores colocan su marcador en el color que creen",
+        "El game master puede dar una segunda palabra y los jugadores modifican su elección",
+        "Gana el jugador que esté más cerca del color que eligió el game master"
+      ],
+      "expansions": null,
+      "oneTimePlay": false,
+      "content": [
+        "1 tablero",
+        "480 cartas",
+        "10 fichas de jugador"
+      ]
     }
   ],
-  "tasks": [
+  "events": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "gamesId": 1,
+      "author": "Paco Fiestas",
+      "address": {
+        "country": "España",
+        "city": "Madrid",
+        "street": "Paseo de la Chopera, 14",
+        "name": "Ironhack",
+        "zipcode": 28002
+      },
+      "date": "Thu Oct 31 2024 10:00:00 GMT+0100",
+      "description": "Busco gente para jugar una partida de Bang! con expansiones para echar la tarde",
+      "players": {
+        "min": 4,
+        "max": 6
+      },
+      "contact": "pacofiestas123@gmail.com",
+      "id": 1
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "gamesId": 2,
+      "author": "Manolo el del Bombo",
+      "address": {
+        "country": "España",
+        "city": "Getafe",
+        "street": "Calle Leganés, 40",
+        "name": "Generación X",
+        "zipcode": 28902
+      },
+      "date": "Sat Sep 21 2024 10:00:00 GMT+0100",
+      "description": "Busco gente no daltónica para unas partiditas de Hues and Cues!!!!",
+      "players": {
+        "min": 3,
+        "max": 9
+      },
+      "contact": "xxmanolo97xx@gmail.com",
+      "id": 2
     }
   ]
 }
