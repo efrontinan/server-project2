@@ -150,7 +150,7 @@
   ],
   "events": [
     {
-      "gamesId": 1,
+      "gameId": 1,
       "author": "Paco Fiestas",
       "address": {
         "country": "España",
@@ -169,7 +169,7 @@
       "id": 1
     },
     {
-      "gamesId": 2,
+      "gameId": 2,
       "author": "Manolo el del Bombo",
       "address": {
         "country": "España",
@@ -186,6 +186,44 @@
       },
       "contact": "xxmanolo97xx@gmail.com",
       "id": 2
+    },
+    {
+      "gameId": 1,
+      "author": "Laura Gamer",
+      "address": {
+        "country": "España",
+        "city": "Barcelona",
+        "street": "Carrer de la Marina, 19",
+        "name": "Ludoteca Juegolandia",
+        "zipcode": 18005
+      },
+      "date": "Sat Nov 02 2024 16:00:00 GMT+0100",
+      "description": "Organizo una partida de Bang! para nuevos jugadores. ¡No hace falta experiencia previa!",
+      "players": {
+        "min": 3,
+        "max": 7
+      },
+      "contact": "laura.gamer@example.com",
+      "id": 3
+    },
+    {
+      "gameId": 1,
+      "author": "Carlos Reverte",
+      "address": {
+        "country": "España",
+        "city": "Valencia",
+        "street": "Avenida de Aragón, 15",
+        "name": "Café Lúdico",
+        "zipcode": 46021
+      },
+      "date": "Sun Nov 10 2024 18:30:00 GMT+0100",
+      "description": "¡Partida de Bang! en el Café Lúdico! Animamos a todos los aficionados a unirse.",
+      "players": {
+        "min": 4,
+        "max": 8
+      },
+      "contact": "carlos.reverte@example.com",
+      "id": 4
     }
   ]
 }
