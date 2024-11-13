@@ -69,6 +69,83 @@
         "480 cartas",
         "10 fichas de jugador"
       ]
+    },
+    {
+      "id": 3,
+      "title": "Dixit",
+      "image": "https://dungeonmarvels.com/138095-large_default/dixit.jpg",
+      "categories": [
+        "Juego de cartas",
+        "Juego de imaginación"
+      ],
+      "specs": {
+        "players": {
+          "min": 3,
+          "max": 6
+        },
+        "minimumAge": 8,
+        "duration": 30
+      },
+      "description": "Dixit es un juego de cartas que desafía tu creatividad y tu capacidad para interpretar imágenes. Cada ronda, un jugador será el narrador y elegirá una carta de su mano, diciendo una frase que la describa. Los demás jugadores elegirán de sus propias manos la carta que mejor se ajuste a esa descripción. El objetivo es ser sutil: si todos adivinan tu carta, no ganas puntos.",
+      "howToPlay": [
+        "El narrador elige una carta de su mano y dice una frase relacionada con ella",
+        "Los demás jugadores eligen una carta de su mano que crean que se ajusta a la descripción",
+        "Se mezclan todas las cartas elegidas y se revelan",
+        "Los jugadores votan cuál creen que es la carta original del narrador",
+        "Se reparten puntos según los aciertos y los engaños conseguidos"
+      ],
+      "expansions": [
+        "Dixit Odyssey",
+        "Dixit Journey",
+        "Dixit Quest"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "84 cartas ilustradas",
+        "6 conejos de madera",
+        "36 fichas de voto",
+        "1 tablero de puntuación"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pandemic",
+      "image": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202003/12/00183103201865____1__1200x1200.jpg",
+      "categories": [
+        "Juego de tablero",
+        "Juego cooperativo"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 4
+        },
+        "minimumAge": 8,
+        "duration": 45
+      },
+      "description": "Pandemic es un juego de mesa cooperativo donde los jugadores trabajan juntos como un equipo de especialistas en enfermedades para salvar al mundo de cuatro enfermedades mortales. Cada jugador asume un rol único con habilidades especiales que deben ser utilizadas estratégicamente para erradicar las enfermedades antes de que sea demasiado tarde.",
+      "howToPlay": [
+        "Cada jugador elige un rol con habilidades únicas",
+        "En su turno, cada jugador puede realizar hasta 4 acciones",
+        "Las acciones incluyen moverse, tratar enfermedades, construir centros de investigación, etc.",
+        "Después de cada turno, se roban cartas de infección y se propagan las enfermedades",
+        "Los jugadores deben cooperar para encontrar curas antes de que las enfermedades se extiendan demasiado"
+      ],
+      "expansions": [
+        "On the Brink",
+        "In the Lab",
+        "State of Emergency"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "1 tablero de juego",
+        "7 cartas de rol",
+        "59 cartas de jugador",
+        "48 cartas de infección",
+        "96 cubos de enfermedad",
+        "5 cubos de cura",
+        "6 marcadores de investigación"
+      ]
     }
   ],
   "events": [
