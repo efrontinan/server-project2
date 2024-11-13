@@ -146,28 +146,45 @@
         "5 cubos de cura",
         "6 marcadores de investigación"
       ]
+    },
+    {
+      "title": "UNO",
+      "image": "https://m.media-amazon.com/images/I/71IC1KLr+uL._AC_UF894,1000_QL80_.jpg",
+      "categories": [
+        "Juego de cartas"
+      ],
+      "description": "UNO es un emocionante juego de cartas donde los jugadores compiten para ser el primero en quedarse sin cartas. Cada jugador recibe una mano inicial y debe deshacerse de sus cartas haciendo coincidir el color, número o símbolo con la carta superior del mazo de descarte. Las cartas especiales añaden giros estratégicos y divertidos al juego.",
+      "howToPlay": [
+        "Se reparten 7 cartas a cada jugador.",
+        "Se coloca una carta boca arriba para iniciar el mazo de descarte.",
+        "Los jugadores, por turnos, deben jugar una carta que coincida en color, número o símbolo con la carta superior del mazo de descarte.",
+        "Si un jugador no puede jugar, debe robar una carta del mazo.",
+        "Las cartas especiales (como \"Roba Dos\", \"Reversa\", \"Salta\") añaden efectos al juego.",
+        "Cuando un jugador tiene solo una carta, debe gritar \"¡UNO!\".",
+        "El primer jugador en quedarse sin cartas gana la ronda."
+      ],
+      "expansions": [
+        ""
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "108 cartas",
+        "76 cartas numéricas (19 de cada color: rojo, azul, verde y amarillo)",
+        "24 cartas de acción (6 \"Roba Dos\", 6 \"Reversa\", 6 \"Salta\")",
+        "8 cartas especiales (4 \"Comodín\" y 4 \"Comodín Roba Cuatro\")"
+      ],
+      "specs": {
+        "minimumAge": "6",
+        "duration": "10",
+        "players": {
+          "min": "2",
+          "max": "10"
+        }
+      },
+      "id": 5
     }
   ],
   "events": [
-    {
-      "gameId": 1,
-      "author": "Paco Fiestas",
-      "address": {
-        "country": "España",
-        "city": "Madrid",
-        "street": "Paseo de la Chopera, 14",
-        "name": "Ironhack",
-        "zipcode": 28002
-      },
-      "date": "Thu Oct 31 2024 10:00:00 GMT+0100",
-      "description": "Busco gente para jugar una partida de Bang! con expansiones para echar la tarde",
-      "players": {
-        "min": 4,
-        "max": 6
-      },
-      "contact": "pacofiestas123@gmail.com",
-      "id": 1
-    },
     {
       "gameId": 2,
       "author": "Manolo el del Bombo",
@@ -188,26 +205,7 @@
       "id": 2
     },
     {
-      "gameId": 1,
-      "author": "Laura Gamer",
-      "address": {
-        "country": "España",
-        "city": "Barcelona",
-        "street": "Carrer de la Marina, 19",
-        "name": "Ludoteca Juegolandia",
-        "zipcode": 18005
-      },
-      "date": "Sat Nov 02 2024 16:00:00 GMT+0100",
-      "description": "Organizo una partida de Bang! para nuevos jugadores. ¡No hace falta experiencia previa!",
-      "players": {
-        "min": 3,
-        "max": 7
-      },
-      "contact": "laura.gamer@example.com",
-      "id": 3
-    },
-    {
-      "gameId": 1,
+      "gameId": 3,
       "author": "Carlos Reverte",
       "address": {
         "country": "España",
@@ -223,7 +221,26 @@
         "max": 8
       },
       "contact": "carlos.reverte@example.com",
-      "id": 4
+      "id": 5
+    },
+    {
+      "gameId": 1,
+      "author": "Ana Jugona",
+      "address": {
+        "country": "España",
+        "city": "Sevilla",
+        "street": "Calle Betis, 33",
+        "name": "Casa del Juego",
+        "zipcode": 41010
+      },
+      "date": "Fri Nov 15 2024 17:00:00 GMT+0100",
+      "description": "Busco jugadores para una partida de Bang! en Casa del Juego. ¡Bienvenidos principiantes y expertos!",
+      "players": {
+        "min": 5,
+        "max": 9
+      },
+      "contact": "ana.jugona@example.com",
+      "id": 6
     }
   ]
 }
