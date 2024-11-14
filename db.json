@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Bang",
-      "image": "https://www.ludokubo.com/wp-content/uploads/2019/01/Bang-La-bala-e1580919995619.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578252/PlayUp/fzxonwwjsmv9qojsgiu5.png",
       "categories": [
         "Juego de cartas",
         "Rol"
@@ -43,7 +43,7 @@
     {
       "id": 2,
       "title": "Hues and Cues",
-      "image": "https://m.media-amazon.com/images/I/71EzKcQh5pL.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578249/PlayUp/ovouv7zv92tt4lbnereo.webp",
       "categories": [
         "Juego de tablero"
       ],
@@ -73,7 +73,7 @@
     {
       "id": 3,
       "title": "Dixit",
-      "image": "https://dungeonmarvels.com/138095-large_default/dixit.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578252/PlayUp/sjeazyfbpiv2e19zffrw.png",
       "categories": [
         "Juego de cartas",
         "Juego de imaginación"
@@ -110,7 +110,7 @@
     {
       "id": 4,
       "title": "Pandemic",
-      "image": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202003/12/00183103201865____1__1200x1200.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578252/PlayUp/li3ii5ri2slbbnvw3pc0.png",
       "categories": [
         "Juego de tablero",
         "Juego cooperativo"
@@ -149,7 +149,7 @@
     },
     {
       "title": "UNO",
-      "image": "https://m.media-amazon.com/images/I/71IC1KLr+uL._AC_UF894,1000_QL80_.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578251/PlayUp/s8zm5y2kv56lkgxyirqc.png",
       "categories": [
         "Juego de cartas"
       ],
@@ -185,7 +185,7 @@
     },
     {
       "title": "Catan",
-      "image": "https://m.media-amazon.com/images/I/71O7UMaQr0L.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578249/PlayUp/wz6fb12odiexyfelv5je.webp",
       "categories": [
         "Estrategia",
         "Comercio"
@@ -222,7 +222,7 @@
     },
     {
       "title": "Carcassonne",
-      "image": "https://garesys.com/blog/wp-content/uploads/2015/09/carcassonne-2015.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578252/PlayUp/hc8tih7kgzuo6kw3impl.png",
       "categories": [
         "Estrategia",
         "Construcción de territorios"
@@ -257,7 +257,7 @@
     },
     {
       "title": "Splendor",
-      "image": "https://media.zacatrus.com/catalog/product/cache/f22f70ef8ee260256901b557cf6bf49a/j/u/juego-splendor_resultado.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578253/PlayUp/tabusik1pe4axo6lfy6d.png",
       "categories": [
         "Estrategia",
         "Juego de cartas"
@@ -290,7 +290,7 @@
     },
     {
       "title": "Terraforming Mars",
-      "image": "https://i0.wp.com/www.jdejuegos.es/wp-content/uploads/2017/09/Terraforming_Mars_1.jpg?fit=450%2C475&ssl=1",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578255/PlayUp/spzuapwzwjtyfokzkuem.png",
       "categories": [
         "Estrategia",
         "Ciencia ficción"
@@ -326,7 +326,7 @@
     },
     {
       "title": "Azul",
-      "image": "https://m.media-amazon.com/images/I/81qNLMlPbTL._AC_UF894,1000_QL80_.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578252/PlayUp/whrumpefjxqk7uks3ulh.png",
       "categories": [
         "Estrategia",
         "Diseño de patrones"
@@ -359,7 +359,7 @@
     },
     {
       "title": "7 Wonders",
-      "image": "https://serendipiatoys.com/cdn/shop/products/7-wonders-juego-de-mesa-estrategico-para-toda-la-familia.jpg?v=1584645681",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578253/PlayUp/ebmyndfmadxp7dkbn4ca.png",
       "categories": [
         "Estrategia",
         "Civilización"
@@ -393,8 +393,8 @@
       "id": 11
     },
     {
-      "title": "Ticket to Ride",
-      "image": "https://m.media-amazon.com/images/I/91g4rzcbiPL.jpg",
+      "title": "Aventureros al tren",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578255/PlayUp/kgbj8b8fv56l1rfundak.png",
       "categories": [
         "Estrategia",
         "Aventura"
@@ -429,7 +429,7 @@
     },
     {
       "title": "King of Tokyo",
-      "image": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436017223897-1200-face3d.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578254/PlayUp/ieqytlemgto0d2dlkv9h.png",
       "categories": [
         "Estrategia",
         "Juego de dados"
@@ -463,8 +463,8 @@
       "id": 13
     },
     {
-      "title": "Codenames",
-      "image": "https://www.somosjuegos.com/wp-content/uploads/2024/02/codigo-secreto-2.jpg",
+      "title": "Código Secreto",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578577/codigo-secreto_kxifw5.png",
       "categories": [
         "Party Game",
         "Estrategia"
@@ -499,7 +499,7 @@
     },
     {
       "title": "Stone Age",
-      "image": "https://juegosdelamesaredonda.com/6765-large_default/stone-age.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731578793/file_irf452.png",
       "categories": [
         "Estrategia",
         "Civilización"
