@@ -182,6 +182,353 @@
         }
       },
       "id": 5
+    },
+    {
+      "title": "Catan",
+      "image": "https://m.media-amazon.com/images/I/71O7UMaQr0L.jpg",
+      "categories": [
+        "Estrategia",
+        "Comercio"
+      ],
+      "specs": {
+        "players": {
+          "min": 3,
+          "max": 4
+        },
+        "minimumAge": 10,
+        "duration": 90
+      },
+      "description": "Un juego de estrategia y comercio donde los jugadores colonizan la isla de Catan, intercambiando recursos para construir carreteras, asentamientos y ciudades.",
+      "howToPlay": [
+        "Los jugadores lanzan dados para obtener recursos.",
+        "Usan esos recursos para construir y expandir su colonia.",
+        "El primer jugador en alcanzar 10 puntos gana el juego."
+      ],
+      "expansions": [
+        "Ciudades y Caballeros",
+        "Navegantes",
+        "Mercaderes y Bárbaros"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "19 piezas de terreno hexagonales",
+        "6 piezas de mar",
+        "96 fichas de recursos",
+        "20 fichas de desarrollo",
+        "1 ladrón",
+        "Libro de reglas"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Carcassonne",
+      "image": "https://garesys.com/blog/wp-content/uploads/2015/09/carcassonne-2015.jpg",
+      "categories": [
+        "Estrategia",
+        "Construcción de territorios"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 5
+        },
+        "minimumAge": 7,
+        "duration": 35
+      },
+      "description": "Un juego de colocación de losetas donde los jugadores construyen caminos, ciudades y monasterios en la campiña de Carcassonne.",
+      "howToPlay": [
+        "Los jugadores colocan losetas para expandir el mapa.",
+        "Colocan seguidores en las losetas para puntuar caminos, ciudades y campos.",
+        "Al final del juego, gana quien tenga la mayor cantidad de puntos."
+      ],
+      "expansions": [
+        "Posadas y Catedrales",
+        "Constructores y Comerciantes",
+        "La Princesa y el Dragón"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "72 losetas de terreno",
+        "40 seguidores en 5 colores",
+        "1 marcador de puntuación",
+        "Libro de reglas"
+      ],
+      "id": 7
+    },
+    {
+      "title": "Splendor",
+      "image": "https://media.zacatrus.com/catalog/product/cache/f22f70ef8ee260256901b557cf6bf49a/j/u/juego-splendor_resultado.jpg",
+      "categories": [
+        "Estrategia",
+        "Juego de cartas"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 4
+        },
+        "minimumAge": 10,
+        "duration": 30
+      },
+      "description": "Los jugadores toman el rol de comerciantes renacentistas que acumulan riquezas y buscan el favor de la nobleza.",
+      "howToPlay": [
+        "Los jugadores recogen fichas de gemas para comprar cartas de desarrollo.",
+        "Las cartas de desarrollo otorgan puntos y pueden atraer nobles.",
+        "El primer jugador en alcanzar 15 puntos gana el juego."
+      ],
+      "expansions": [
+        "Ciudades de Splendor"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "40 fichas de gemas",
+        "90 cartas de desarrollo",
+        "10 cartas de noble",
+        "Libro de reglas"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Terraforming Mars",
+      "image": "https://i0.wp.com/www.jdejuegos.es/wp-content/uploads/2017/09/Terraforming_Mars_1.jpg?fit=450%2C475&ssl=1",
+      "categories": [
+        "Estrategia",
+        "Ciencia ficción"
+      ],
+      "specs": {
+        "players": {
+          "min": 1,
+          "max": 5
+        },
+        "minimumAge": 12,
+        "duration": 120
+      },
+      "description": "Cada jugador representa una corporación que trabaja para terraformar Marte, aumentando el oxígeno, el calor y los océanos del planeta.",
+      "howToPlay": [
+        "Los jugadores compran y juegan cartas de proyectos.",
+        "Realizan acciones para mejorar su corporación y terraformar Marte.",
+        "El juego termina cuando Marte es completamente terraformado; gana quien tenga más puntos."
+      ],
+      "expansions": [
+        "Hellas y Elysium",
+        "Colonias",
+        "Prelude"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "5 tableros de jugador",
+        "1 tablero de Marte",
+        "200 cubos de recurso",
+        "208 cartas de proyecto",
+        "Libro de reglas"
+      ],
+      "id": 9
+    },
+    {
+      "title": "Azul",
+      "image": "https://m.media-amazon.com/images/I/81qNLMlPbTL._AC_UF894,1000_QL80_.jpg",
+      "categories": [
+        "Estrategia",
+        "Diseño de patrones"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 4
+        },
+        "minimumAge": 8,
+        "duration": 30
+      },
+      "description": "Los jugadores colocan azulejos en un tablero personal, compitiendo por hacer patrones para obtener puntos.",
+      "howToPlay": [
+        "Cada jugador selecciona azulejos de diferentes fábricas y los coloca en su tablero.",
+        "Una vez completado un patrón, los azulejos otorgan puntos.",
+        "El juego termina tras varias rondas y gana quien tenga más puntos."
+      ],
+      "expansions": [
+        "Azul: Pabellón de verano"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "100 azulejos",
+        "4 tableros de jugador",
+        "9 discos de fábrica",
+        "Libro de reglas"
+      ],
+      "id": 10
+    },
+    {
+      "title": "7 Wonders",
+      "image": "https://serendipiatoys.com/cdn/shop/products/7-wonders-juego-de-mesa-estrategico-para-toda-la-familia.jpg?v=1584645681",
+      "categories": [
+        "Estrategia",
+        "Civilización"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 7
+        },
+        "minimumAge": 10,
+        "duration": 30
+      },
+      "description": "Los jugadores desarrollan una civilización antigua construyendo estructuras y compitiendo en áreas como comercio y ciencia.",
+      "howToPlay": [
+        "Cada jugador selecciona una carta por turno para construir su civilización.",
+        "Se ganan puntos por edificios, ciencias y maravillas.",
+        "El jugador con más puntos al final de tres eras gana."
+      ],
+      "expansions": [
+        "Líderes",
+        "Ciudades",
+        "Armada"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "49 cartas de edad I",
+        "49 cartas de edad II",
+        "50 cartas de edad III",
+        "Libro de reglas"
+      ],
+      "id": 11
+    },
+    {
+      "title": "Ticket to Ride",
+      "image": "https://m.media-amazon.com/images/I/91g4rzcbiPL.jpg",
+      "categories": [
+        "Estrategia",
+        "Aventura"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 5
+        },
+        "minimumAge": 8,
+        "duration": 60
+      },
+      "description": "Los jugadores compiten para construir rutas de tren entre ciudades y completar tarjetas de destino.",
+      "howToPlay": [
+        "Los jugadores roban cartas de tren y completan rutas en el tablero.",
+        "Se obtienen puntos por rutas y objetivos completados.",
+        "Al finalizar el juego, gana quien tenga más puntos."
+      ],
+      "expansions": [
+        "Europa",
+        "Asia",
+        "África"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "1 tablero de mapa",
+        "240 vagones de tren",
+        "110 cartas de tren",
+        "Libro de reglas"
+      ],
+      "id": 12
+    },
+    {
+      "title": "King of Tokyo",
+      "image": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436017223897-1200-face3d.jpg",
+      "categories": [
+        "Estrategia",
+        "Juego de dados"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 6
+        },
+        "minimumAge": 8,
+        "duration": 30
+      },
+      "description": "Los jugadores asumen el rol de monstruos gigantes compitiendo por el dominio de Tokio. ¡Sólo puede haber un rey en Tokio!",
+      "howToPlay": [
+        "Los jugadores tiran dados para ganar puntos de victoria, vida o atacar a otros monstruos.",
+        "El primer jugador en llegar a 20 puntos de victoria o el último en pie gana.",
+        "Cada turno, un jugador puede entrar en Tokio o atacar a los que están dentro."
+      ],
+      "expansions": [
+        "Power Up!",
+        "Halloween",
+        "King of New York"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "66 cartas",
+        "8 dados personalizados",
+        "28 fichas",
+        "Libro de reglas"
+      ],
+      "id": 13
+    },
+    {
+      "title": "Codenames",
+      "image": "https://www.somosjuegos.com/wp-content/uploads/2024/02/codigo-secreto-2.jpg",
+      "categories": [
+        "Party Game",
+        "Estrategia"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 8
+        },
+        "minimumAge": 14,
+        "duration": 15
+      },
+      "description": "Dos equipos compiten para adivinar las palabras de su color en una cuadrícula antes que el equipo contrario, basándose en las pistas de un espía.",
+      "howToPlay": [
+        "El espía de cada equipo da una palabra clave y un número de palabras relacionadas.",
+        "El equipo intenta adivinar las palabras relacionadas con la pista.",
+        "El primer equipo en encontrar todas sus palabras gana."
+      ],
+      "expansions": [
+        "Codenames: Pictures",
+        "Codenames: Duet",
+        "Codenames: Deep Undercover"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "200 cartas con palabras",
+        "16 cartas de agente",
+        "1 carta de asesino",
+        "Libro de reglas"
+      ],
+      "id": 14
+    },
+    {
+      "title": "Stone Age",
+      "image": "https://juegosdelamesaredonda.com/6765-large_default/stone-age.jpg",
+      "categories": [
+        "Estrategia",
+        "Civilización"
+      ],
+      "specs": {
+        "players": {
+          "min": 2,
+          "max": 4
+        },
+        "minimumAge": 10,
+        "duration": 60
+      },
+      "description": "Los jugadores guían una tribu prehistórica recolectando recursos y desarrollando tecnología para obtener puntos de civilización.",
+      "howToPlay": [
+        "Los jugadores colocan trabajadores en distintos lugares para recolectar recursos.",
+        "Se usan los recursos para mejorar la civilización y obtener puntos.",
+        "El jugador con más puntos al final gana."
+      ],
+      "expansions": [
+        "Stone Age: The Expansion"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "1 tablero de juego",
+        "68 recursos",
+        "40 piezas de herramientas",
+        "Libro de reglas"
+      ],
+      "id": 15
     }
   ],
   "events": [
