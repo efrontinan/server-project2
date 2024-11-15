@@ -469,14 +469,6 @@
         "Party Game",
         "Estrategia"
       ],
-      "specs": {
-        "players": {
-          "min": 2,
-          "max": 8
-        },
-        "minimumAge": 14,
-        "duration": 15
-      },
       "description": "Dos equipos compiten para adivinar las palabras de su color en una cuadrícula antes que el equipo contrario, basándose en las pistas de un espía.",
       "howToPlay": [
         "El espía de cada equipo da una palabra clave y un número de palabras relacionadas.",
@@ -495,6 +487,14 @@
         "1 carta de asesino",
         "Libro de reglas"
       ],
+      "specs": {
+        "minimumAge": 14,
+        "duration": 15,
+        "players": {
+          "min": 2,
+          "max": "10"
+        }
+      },
       "id": 14
     },
     {
@@ -529,6 +529,50 @@
         "Libro de reglas"
       ],
       "id": 15
+    },
+    {
+      "title": "Star Wars: Imperial Assault",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731592732/61ZU5DNZ-uL._AC_UF894_1000_QL80__lklwcj.jpg",
+      "categories": [
+        "Juego de tablero",
+        "Estrategia",
+        "Rol"
+      ],
+      "description": "En Imperial Assault, dos a cinco jugadores participan en una épica aventura de Star Wars. Un jugador controla las fuerzas del poderoso Imperio Galáctico, mientras que los demás trabajan juntos como un equipo, cada uno controlando un héroe de la Alianza Rebelde. A lo largo del juego, estos héroes viajan por la galaxia y participan en misiones audaces, enfrentándose en combates tácticos terrestres contra las fuerzas Imperiales.",
+      "howToPlay": [
+        "El juego se desarrolla en misiones sobre un mapa modular.",
+        "Los jugadores alternan activaciones, con los Rebeldes activando un héroe y el Imperio activando grupos de figuras.",
+        "Cada figura puede realizar dos acciones por turno, como moverse, atacar o interactuar con el entorno.",
+        "Los ataques se resuelven lanzando dados de ataque y defensa.",
+        "Las misiones tienen objetivos específicos que los jugadores deben cumplir.",
+        "Entre misiones, los héroes pueden mejorar sus habilidades y equipo.",
+        "El juego culmina en una misión final que determina el destino de la galaxia."
+      ],
+      "expansions": [
+        "El Reino de Jabba",
+        "Bespin en llamas",
+        "El Corazón del Imperio"
+      ],
+      "oneTimePlay": false,
+      "content": [
+        "34 miniaturas detalladas",
+        "59 losetas de mapa de doble cara",
+        "11 dados personalizados",
+        "Más de 250 cartas",
+        "Más de 150 fichas variadas",
+        "Libro de reglas",
+        "Guía de campaña",
+        "Guía de escaramuza"
+      ],
+      "specs": {
+        "minimumAge": "10",
+        "duration": "130",
+        "players": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      "id": 16
     }
   ],
   "events": [
@@ -538,11 +582,11 @@
       "address": {
         "country": "España",
         "city": "Getafe",
-        "street": "Calle Leganés, 40",
+        "street": "Calle Leganés, 30",
         "name": "Generación X",
         "zipcode": 28902
       },
-      "date": "Sat Sep 21 2024 10:00:00 GMT+0100",
+      "date": "2024-09-21T05:00",
       "description": "Busco gente no daltónica para unas partiditas de Hues and Cues!!!!",
       "players": {
         "min": 3,
@@ -580,14 +624,71 @@
         "name": "Casa del Juego",
         "zipcode": 41010
       },
-      "date": "Fri Nov 15 2024 17:00:00 GMT+0100",
+      "date": "2024-11-15T16:00",
       "description": "Busco jugadores para una partida de Bang! en Casa del Juego. ¡Bienvenidos principiantes y expertos!",
       "players": {
         "min": 5,
-        "max": 9
+        "max": "10"
       },
       "contact": "ana.jugona@example.com",
       "id": 6
+    },
+    {
+      "gameId": "6",
+      "author": "Pedro Pedrolos",
+      "contact": "pedroleros@gmail.com",
+      "date": "2024-11-16T17:30",
+      "description": "Tarde de Catan",
+      "players": {
+        "min": "2",
+        "max": "4"
+      },
+      "address": {
+        "country": "España",
+        "city": "Madrid",
+        "street": "Calle Parla, 23",
+        "name": "Casa Rodolfo",
+        "zipcode": "28031"
+      },
+      "id": 7
+    },
+    {
+      "gameId": "6",
+      "author": "Juan Soler",
+      "contact": "juansoler@gmail.com",
+      "date": "2024-11-27T17:38",
+      "description": "Catancito",
+      "players": {
+        "min": "2",
+        "max": "3"
+      },
+      "address": {
+        "country": "España",
+        "city": "Getafe",
+        "street": "Calle Valencia, 12",
+        "name": "Bar Goyo",
+        "zipcode": "28903"
+      },
+      "id": 8
+    },
+    {
+      "gameId": "6",
+      "author": "",
+      "contact": "",
+      "date": "",
+      "description": "",
+      "players": {
+        "min": 0,
+        "max": 0
+      },
+      "address": {
+        "country": "",
+        "city": "",
+        "street": "",
+        "name": "",
+        "zipcode": 0
+      },
+      "id": 9
     }
   ]
 }
