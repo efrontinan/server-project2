@@ -62,7 +62,9 @@
         "El game master puede dar una segunda palabra y los jugadores modifican su elección",
         "Gana el jugador que esté más cerca del color que eligió el game master"
       ],
-      "expansions": null,
+      "expansions": [
+        ""
+      ],
       "oneTimePlay": false,
       "content": [
         "1 tablero",
@@ -689,6 +691,44 @@
         "zipcode": 0
       },
       "id": 9
+    },
+    {
+      "gameId": "1",
+      "author": "Con fecha funcionas",
+      "contact": "",
+      "date": "2024-11-22T11:52",
+      "description": "Veamos ahora si",
+      "players": {
+        "min": 0,
+        "max": 0
+      },
+      "address": {
+        "country": "",
+        "city": "",
+        "street": "",
+        "name": "",
+        "zipcode": 0
+      },
+      "id": 10
+    },
+    {
+      "gameId": "2",
+      "author": "Mariano Rajoy",
+      "contact": "mpuntorajoy@gmail.com",
+      "date": "2024-11-23T17:10",
+      "description": "Unash partidash?",
+      "players": {
+        "min": "2",
+        "max": "4"
+      },
+      "address": {
+        "country": "España",
+        "city": "Madrid",
+        "street": "Calle Génova ,32",
+        "name": "Sede del PP",
+        "zipcode": "28055"
+      },
+      "id": 11
     }
   ]
 }
