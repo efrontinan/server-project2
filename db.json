@@ -737,5 +737,28 @@
       "message": "Mensaje de prueba\n",
       "id": 1
     }
+  ],
+  "reviews": [
+    {
+      "author": "Manuel Pérez",
+      "rating": "9",
+      "description": "Bang es un juego muy divertido para enfrentarte",
+      "gameId": "1",
+      "id": 1
+    },
+    {
+      "author": "Ana Cabezas",
+      "rating": "6",
+      "description": "Me ha parecido divertido pero siendo daltónica no lo he disfrutado tanto",
+      "gameId": "2",
+      "id": 2
+    },
+    {
+      "author": "Juan Diablo",
+      "rating": "3",
+      "description": "Muy larga la partida!! No paraba de morir siendo un forajido, injusto!!!",
+      "gameId": "1",
+      "id": 3
+    }
   ]
 }
