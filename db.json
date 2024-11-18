@@ -586,7 +586,9 @@
         "city": "Getafe",
         "street": "Calle Leganés, 30",
         "name": "Generación X",
-        "zipcode": 28902
+        "zipcode": 28902,
+        "lat": 40.30778633014797,
+        "lng": -3.734017817156746
       },
       "date": "2024-09-21T03:00",
       "description": "Busco gente no daltónica para unas partiditas de Hues and Cues!!!!",
@@ -605,7 +607,9 @@
         "city": "Valencia",
         "street": "Avenida de Aragón, 15",
         "name": "Café Lúdico",
-        "zipcode": 46021
+        "zipcode": 46021,
+        "lat": 40.445047430518166,
+        "lng": -3.5345907190016015
       },
       "date": "Sun Nov 10 2024 18:30:00 GMT+0100",
       "description": "¡Partida de Bang! en el Café Lúdico! Animamos a todos los aficionados a unirse.",
@@ -624,7 +628,9 @@
         "city": "Sevilla",
         "street": "Calle Betis, 33",
         "name": "Casa del Juego",
-        "zipcode": 41010
+        "zipcode": 41010, 
+        "lat": 40.37630796421351,
+        "lng": -3.7412832766774455
       },
       "date": "2024-11-15T16:00",
       "description": "Busco jugadores para una partida de Bang! en Casa del Juego. ¡Bienvenidos principiantes y expertos!",
@@ -650,7 +656,10 @@
         "city": "Madrid",
         "street": "Calle Parla, 23",
         "name": "Casa Rodolfo",
-        "zipcode": "28031"
+        "zipcode": "28031",
+        "lat": 40.31135339331945,
+        "lng": -3.7377327251062864
+         
       },
       "id": 7
     },
@@ -669,47 +678,12 @@
         "city": "Getafe",
         "street": "Calle Valencia, 12",
         "name": "Bar Goyo",
-        "zipcode": "28903"
+        "zipcode": "28903",
+        "lat": 39.87475706136384,
+        "lng": -4.035130713313549
+        
       },
       "id": 8
-    },
-    {
-      "gameId": "6",
-      "author": "",
-      "contact": "",
-      "date": "",
-      "description": "",
-      "players": {
-        "min": 0,
-        "max": 0
-      },
-      "address": {
-        "country": "",
-        "city": "",
-        "street": "",
-        "name": "",
-        "zipcode": 0
-      },
-      "id": 9
-    },
-    {
-      "gameId": "1",
-      "author": "Con fecha funcionas",
-      "contact": "",
-      "date": "2024-11-22T11:52",
-      "description": "Veamos ahora si",
-      "players": {
-        "min": 0,
-        "max": 0
-      },
-      "address": {
-        "country": "",
-        "city": "",
-        "street": "",
-        "name": "",
-        "zipcode": 0
-      },
-      "id": 10
     },
     {
       "gameId": "2",
@@ -726,7 +700,9 @@
         "city": "Madrid",
         "street": "Calle Génova ,32",
         "name": "Sede del PP",
-        "zipcode": "28055"
+        "zipcode": "28055",
+        "lat":  40.42560551389105,
+        "lng": -3.691228261330583 
       },
       "id": 11
     }
