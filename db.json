@@ -703,6 +703,27 @@
         "lng": -3.691228261330583
       },
       "id": 11
+    },
+    {
+      "author": "Elena",
+      "contact": "prueba@gmail.com",
+      "date": "2024-11-20T18:00",
+      "description": "aesgñódjgr´w rotj me cago en todo",
+      "players": {
+        "min": "4",
+        "max": "7"
+      },
+      "address": {
+        "country": "España",
+        "city": "Madrid",
+        "street": "Calle ícaro",
+        "name": "Manuela",
+        "zipcode": "28232",
+        "label": "Calle Ícaro, 12, Las Rozas de Madrid, España",
+        "lat": 40.5177421,
+        "lng": -3.9205885
+      },
+      "id": 12
     }
   ],
   "contact": [
