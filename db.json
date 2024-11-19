@@ -628,7 +628,7 @@
         "city": "Sevilla",
         "street": "Calle Betis, 33",
         "name": "Casa del Juego",
-        "zipcode": 41010, 
+        "zipcode": 41010,
         "lat": 40.37630796421351,
         "lng": -3.7412832766774455
       },
@@ -659,7 +659,6 @@
         "zipcode": "28031",
         "lat": 40.31135339331945,
         "lng": -3.7377327251062864
-         
       },
       "id": 7
     },
@@ -681,7 +680,6 @@
         "zipcode": "28903",
         "lat": 39.87475706136384,
         "lng": -4.035130713313549
-        
       },
       "id": 8
     },
@@ -701,8 +699,8 @@
         "street": "Calle Génova ,32",
         "name": "Sede del PP",
         "zipcode": "28055",
-        "lat":  40.42560551389105,
-        "lng": -3.691228261330583 
+        "lat": 40.42560551389105,
+        "lng": -3.691228261330583
       },
       "id": 11
     }
@@ -735,6 +733,13 @@
       "description": "Muy larga la partida!! No paraba de morir siendo un forajido, injusto!!!",
       "gameId": "1",
       "id": 3
+    },
+    {
+      "gameId": "16",
+      "author": "Yosef Karam",
+      "rating": "9",
+      "description": "Juegardo pero el Blanco no viene nunca a jugar así que la policía irá a por él",
+      "id": 4
     }
   ]
 }
