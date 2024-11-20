@@ -761,6 +761,13 @@
       "rating": "9",
       "description": "Juegardo pero el Blanco no viene nunca a jugar así que la policía irá a por él",
       "id": 4
+    },
+    {
+      "gameId": "16",
+      "author": "Jelen",
+      "rating": "2",
+      "description": "Jamás debió existir, tengo prohibido este juego de las quedadas porque suficiente tengo con que me invadan la casa con la excusa de jugar",
+      "id": 5
     }
   ]
 }
