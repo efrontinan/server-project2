@@ -534,7 +534,7 @@
     },
     {
       "title": "Star Wars: Imperial Assault",
-      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1731592732/61ZU5DNZ-uL._AC_UF894_1000_QL80__lklwcj.jpg",
+      "image": "https://res.cloudinary.com/dt9pviq34/image/upload/v1732184333/61ZU5DNZ-uL._AC_UF894_1000_QL80__lklwcj.png",
       "categories": [
         "Juego de tablero",
         "Estrategia",
@@ -705,32 +705,188 @@
       "id": 11
     },
     {
-      "author": "Elena",
-      "contact": "prueba@gmail.com",
-      "date": "2024-11-20T18:00",
-      "description": "aesgñódjgr´w rotj me cago en todo",
+      "author": "wrt",
+      "contact": "erte@gmail.com",
+      "date": "",
+      "description": "awe",
       "players": {
-        "min": "4",
-        "max": "7"
+        "min": "3",
+        "max": "4"
       },
       "address": {
         "country": "España",
-        "city": "Madrid",
-        "street": "Calle ícaro",
-        "name": "Manuela",
-        "zipcode": "28232",
-        "label": "Calle Ícaro, 12, Las Rozas de Madrid, España",
-        "lat": 40.5177421,
-        "lng": -3.9205885
+        "city": "Teruel",
+        "street": "Calle Betis, 33",
+        "name": "Mirador de Santa Bárbara",
+        "zipcode": "033",
+        "label": "Calle Betis, Sevilla, España",
+        "lat": 37.38327,
+        "lng": -5.9998084
       },
       "id": 12
+    },
+    {
+      "author": "wrt",
+      "contact": "erte@gmail.com",
+      "date": "",
+      "description": "awe",
+      "players": {
+        "min": "3",
+        "max": "4"
+      },
+      "address": {
+        "country": "España",
+        "city": "Teruel",
+        "street": "Calle Betis, 33",
+        "name": "Mirador de Santa Bárbara",
+        "zipcode": "033",
+        "label": "Calle Betis, Sevilla, España",
+        "lat": 37.38327,
+        "lng": -5.9998084
+      },
+      "id": 13
     }
   ],
   "contact": [
     {
-      "email": "elenafmua@gmail.com",
-      "message": "Mensaje de prueba\n",
-      "id": 1
+      "email": "prueba@gmail.com",
+      "message": "¿Tienen plazas disponibles para el torneo de Catan?",
+      "date": "2024-09-24T10:01:47.559494",
+      "id": 1,
+      "isAnswered": false
+    },
+    {
+      "email": "prueba@gmail.com",
+      "message": "¿Cómo puedo participar en las sesiones de prueba de prototipos de juegos de mesa?",
+      "date": "2024-04-03T10:01:47.559519",
+      "id": 2,
+      "isAnswered": false
+    },
+    {
+      "email": "prueba@gmail.com",
+      "message": "¿Qué juegos suelen jugar en sus reuniones semanales?",
+      "date": "2024-01-18T10:01:47.559528",
+      "id": 3,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Puedo llevar mis propios juegos de mesa a las reuniones?",
+      "date": "2024-10-27T10:01:47.559535",
+      "id": 4,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "Estoy buscando un juego cooperativo divertido para la próxima reunión, ¿alguna sugerencia?",
+      "date": "2024-08-12T10:01:47.559543",
+      "id": 5,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Cuándo organizan la próxima partida de Carcassonne?",
+      "date": "2024-07-05T10:01:47.559550",
+      "id": 6,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "Me gustaría saber más sobre la colección de juegos de mesa que tienen en su club.",
+      "date": "2024-11-16T10:01:47.559557",
+      "id": 7,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "Quiero regalar un juego de mesa, ¿me pueden recomendar uno para adultos?",
+      "date": "2024-05-13T10:01:47.559566",
+      "id": 8,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Puedo llevar mis propios juegos de mesa a las reuniones?",
+      "date": "2024-01-30T10:01:47.559575",
+      "id": 9,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "¿Organizan eventos para familias con niños pequeños?",
+      "date": "2024-03-09T10:01:47.559583",
+      "id": 10,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "Quiero regalar un juego de mesa, ¿me pueden recomendar uno para adultos?",
+      "date": "2024-07-18T10:01:47.559590",
+      "id": 11,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Cuándo organizan la próxima partida de Carcassonne?",
+      "date": "2024-05-20T10:01:47.559597",
+      "id": 12,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Tienen una lista de juegos disponibles en su biblioteca?",
+      "date": "2024-10-14T10:01:47.559604",
+      "id": 13,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Puedo llevar mis propios juegos de mesa a las reuniones?",
+      "date": "2024-03-16T10:01:47.559610",
+      "id": 14,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "Estoy buscando recomendaciones de juegos de mesa para principiantes, ¿pueden ayudarme?",
+      "date": "2024-01-16T10:01:47.559616",
+      "id": 15,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "Me gustaría saber más sobre la colección de juegos de mesa que tienen en su club.",
+      "date": "2024-06-26T10:01:47.559623",
+      "id": 16,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "¿Tienen plazas disponibles para el torneo de Catan?",
+      "date": "2024-04-16T10:01:47.559629",
+      "id": 17,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "Estoy interesado en aprender a jugar a Gloomhaven, ¿planean algún taller pronto?",
+      "date": "2024-11-11T10:01:47.559636",
+      "id": 18,
+      "isAnswered": false
+    },
+    {
+      "email": "mamadivorciada@gmail.com",
+      "message": "Quiero regalar un juego de mesa, ¿me pueden recomendar uno para adultos?",
+      "date": "2024-04-24T10:01:47.559643",
+      "id": 19,
+      "isAnswered": false
+    },
+    {
+      "email": "pacofiestas@gmail.com",
+      "message": "¿Cuándo organizan la próxima partida de Carcassonne?",
+      "date": "2024-02-06T10:01:47.559649",
+      "id": 20,
+      "isAnswered": false
     }
   ],
   "reviews": [
@@ -768,6 +924,181 @@
       "rating": "2",
       "description": "Jamás debió existir, tengo prohibido este juego de las quedadas porque suficiente tengo con que me invadan la casa con la excusa de jugar",
       "id": 5
+    },
+    {
+      "gameId": "6",
+      "author": "Jorge",
+      "rating": "5",
+      "description": "El mejor juego de estrategia que he probado. Las partidas son épicas.",
+      "id": 6
+    },
+    {
+      "gameId": "7",
+      "author": "Clara",
+      "rating": "3",
+      "description": "Me gustó al principio, pero las partidas pueden ser muy largas.",
+      "id": 7
+    },
+    {
+      "gameId": "8",
+      "author": "Miguel",
+      "rating": "4",
+      "description": "Perfecto para pasar un rato divertido con amigos. Lo recomiendo.",
+      "id": 8
+    },
+    {
+      "gameId": "9",
+      "author": "Valeria",
+      "rating": "2",
+      "description": "La temática es interesante, pero la ejecución deja mucho que desear.",
+      "id": 9
+    },
+    {
+      "gameId": "10",
+      "author": "Roberto",
+      "rating": "1",
+      "description": "Jamás lo recomendaría, me aburrí en la primera partida.",
+      "id": 10
+    },
+    {
+      "gameId": "11",
+      "author": "Natalia",
+      "rating": "5",
+      "description": "Este juego se ha convertido en un clásico en nuestras reuniones. ¡Nos encanta!",
+      "id": 11
+    },
+    {
+      "gameId": "12",
+      "author": "Andrés",
+      "rating": "4",
+      "description": "Un buen juego, aunque puede ser un poco complicado de aprender al inicio.",
+      "id": 12
+    },
+    {
+      "gameId": "13",
+      "author": "Laura",
+      "rating": "2",
+      "description": "Lo jugamos una vez y no creo que lo volvamos a tocar. No nos enganchó.",
+      "id": 13
+    },
+    {
+      "gameId": "14",
+      "author": "Daniel",
+      "rating": "5",
+      "description": "Uno de mis juegos favoritos, siempre trae mucha emoción a las partidas.",
+      "id": 14
+    },
+    {
+      "gameId": "15",
+      "author": "Isabel",
+      "rating": "3",
+      "description": "Divertido, pero no es algo que jugaría muy seguido.",
+      "id": 15
+    },
+    {
+      "gameId": "16",
+      "author": "Fernando",
+      "rating": "4",
+      "description": "Interesante y desafiante, pero requiere mucha concentración.",
+      "id": 16
+    },
+    {
+      "gameId": "1",
+      "author": "Elena",
+      "rating": "1",
+      "description": "Demasiado aburrido para mi gusto. No entiendo la popularidad.",
+      "id": 17
+    },
+    {
+      "gameId": "2",
+      "author": "Raúl",
+      "rating": "5",
+      "description": "Súper emocionante, lo jugamos cada semana con el grupo.",
+      "id": 18
+    },
+    {
+      "gameId": "3",
+      "author": "Lucía",
+      "rating": "4",
+      "description": "Muy buen juego, aunque podría mejorar un par de aspectos en las reglas.",
+      "id": 19
+    },
+    {
+      "gameId": "4",
+      "author": "Enrique",
+      "rating": "2",
+      "description": "Pensé que sería mejor, pero no cumplió mis expectativas.",
+      "id": 20
+    },
+    {
+      "gameId": "5",
+      "author": "Patricia",
+      "rating": "3",
+      "description": "No está mal, pero tampoco es algo que me emocione.",
+      "id": 21
+    },
+    {
+      "gameId": "6",
+      "author": "Santiago",
+      "rating": "5",
+      "description": "Una obra maestra. Lo recomiendo a todos los que aman los juegos de mesa.",
+      "id": 22
+    },
+    {
+      "gameId": "7",
+      "author": "Mónica",
+      "rating": "4",
+      "description": "Entretenido y con un buen nivel de desafío. Me gusta mucho.",
+      "id": 23
+    },
+    {
+      "gameId": "8",
+      "author": "Alberto",
+      "rating": "1",
+      "description": "No puedo recomendarlo. Fue una decepción total.",
+      "id": 24
+    },
+    {
+      "gameId": "9",
+      "author": "Rosa",
+      "rating": "3",
+      "description": "Está bien para pasar el rato, pero no es nada del otro mundo.",
+      "id": 25
+    },
+    {
+      "gameId": "10",
+      "author": "Mario",
+      "rating": "4",
+      "description": "Un juego muy original, aunque a veces puede ser un poco frustrante.",
+      "id": 26
+    },
+    {
+      "gameId": "11",
+      "author": "Irene",
+      "rating": "5",
+      "description": "Este juego es fantástico. Nos hizo reír y pensar mucho.",
+      "id": 27
+    },
+    {
+      "gameId": "12",
+      "author": "Pablo",
+      "rating": "2",
+      "description": "Esperaba algo mejor, pero las mecánicas no me convencieron.",
+      "id": 28
+    },
+    {
+      "gameId": "13",
+      "author": "Carmen",
+      "rating": "3",
+      "description": "No está mal, pero hay juegos mucho mejores en esta categoría.",
+      "id": 29
+    },
+    {
+      "gameId": "14",
+      "author": "Hugo",
+      "rating": "5",
+      "description": "Absolutamente genial. Lo recomendaría a cualquiera que disfrute los desafíos.",
+      "id": 30
     }
   ]
 }
